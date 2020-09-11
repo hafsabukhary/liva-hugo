@@ -5,8 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: liva-hugo/exampleSite
-  label: repo
+  path: ''
+  label: root
   create: all
   match: "**/*"
 - type: directory
